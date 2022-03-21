@@ -1,0 +1,17 @@
+[
+  {
+    "question": 1,
+    "textAnswer": "fsffsfsfsfdfdfdfd",
+    "selectAnswers": null
+  },
+  {
+    "question": 2,
+    "textAnswer": null,
+    "selectAnswers": [1]
+  },
+  {
+    "question": 3,
+    "textAnswer": null,
+    "selectAnswers": [1, 2]
+  }
+]

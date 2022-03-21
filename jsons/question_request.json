@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4, //null в случае добавления
+    "content": "Second question of second survey",
+    "answerType": "TEXT"
+  },
+  {
+    "id": 5,
+    "content": "Thied question of second survey",
+    "answerType": "ONE_SELECT",
+    "possibleAnswers": [
+      {
+        "answer": "First answer of first question"
+      },
+      {
+        "answer": "Second answer of first question"
+      },
+      {
+        "answer": "Third answer of first question"
+      }
+    ]
+  }
+]

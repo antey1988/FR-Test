@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "name": "First survey",
+  "description": null,
+  "startDate": "2022-03-18T00:00:00",
+  "endDate": null,
+  "questions": [
+    {
+      "id": 1,
+      "content": "First question of first survey",
+      "answerType": "TEXT",
+      "possibleAnswers": []
+    },
+    {
+      "id": 2,
+      "content": "Second question of first survey",
+      "answerType": "ONE_SELECT",
+      "possibleAnswers": [
+        {
+          "number": 1,
+          "answer": "First answer of first question"
+        },
+        {
+          "number": 2,
+          "answer": "Second answer of first question"
+        },
+        {
+          "number": 3,
+          "answer": "Third answer of first question"
+        },
+        {
+          "number": 4,
+          "answer": "fourth answer of first question"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content": "Third question of first survey",
+      "answerType": "SEVERAL_SELECT",
+      "possibleAnswers": [
+        {
+          "number": 1,
+          "answer": "First answer of second question"
+        },
+        {
+          "number": 2,
+          "answer": "Second answer of second question"
+        },
+        {
+          "number": 3,
+          "answer": "Third answer of second question"
+        },
+        {
+          "number": 4,
+          "answer": "fourth answer of second question"
+        }
+      ]
+    }
+  ]
+}

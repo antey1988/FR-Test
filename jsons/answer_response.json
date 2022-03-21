@@ -1,0 +1,74 @@
+[
+  {
+    "name": "First survey",
+    "description": null,
+    "startDate": "2022-03-18T00:00:00",
+    "endDate": null,
+    "dateAnswer": "2022-03-18T00:00:00",
+    "inputAnswerResponseDtos": [
+      {
+        "question": "First question of first survey",
+        "textAnswer": "Answer user on first survey",
+        "selectAnswers": null
+      },
+      {
+        "question": "Second question of first survey",
+        "textAnswer": null,
+        "selectAnswers": [
+          {
+            "answer": "First answer of first question",
+            "select": true
+          },
+          {
+            "answer": "Second answer of first question",
+            "select": false
+          },
+          {
+            "answer": "Third answer of first question",
+            "select": false
+          },
+          {
+            "answer": "fourth answer of first question",
+            "select": false
+          }
+        ]
+      },
+      {
+        "question": "Third question of first survey",
+        "textAnswer": null,
+        "selectAnswers": [
+          {
+            "answer": "First answer of second question",
+            "select": true
+          },
+          {
+            "answer": "Second answer of second question",
+            "select": false
+          },
+          {
+            "answer": "Third answer of second question",
+            "select": true
+          },
+          {
+            "answer": "fourth answer of second question",
+            "select": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second survey",
+    "description": null,
+    "startDate": "2022-03-18T00:00:00",
+    "endDate": null,
+    "dateAnswer": "2022-03-18T00:00:00",
+    "inputAnswerResponseDtos": [
+      {
+        "question": "First question of second survey",
+        "textAnswer": "Answer user on second survey",
+        "selectAnswers": null
+      }
+    ]
+  }
+]

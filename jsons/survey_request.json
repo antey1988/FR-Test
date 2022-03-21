@@ -1,0 +1,30 @@
+{
+  "name": "3 survey",
+  "description": null,
+  "startDate": "2022-03-18T00:00:00",
+  "endDate": null,
+  "questions": [
+    {
+      "content": "First question of 3 survey",
+      "answerType": "TEXT"
+    },
+    {
+      "content": "Second question of 3 survey",
+      "answerType": "ONE_SELECT",
+      "possibleAnswers": [
+        {
+          "answer": "First answer of 3 question"
+        },
+        {
+          "answer": "Second answer of 3 question"
+        },
+        {
+          "answer": "Third answer of 3 question"
+        },
+        {
+          "answer": "fourth answer of 3 question"
+        }
+      ]
+    }
+  ]
+}
