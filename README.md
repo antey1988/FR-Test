@@ -1,7 +1,8 @@
 # FR-Test
 
-## 
-Authorization: Basic
+## Разворачивать локально
+
+## Authorization: Basic
 
 User: Admin
 
