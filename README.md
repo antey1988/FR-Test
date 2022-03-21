@@ -11,12 +11,12 @@ Password: 12345
 ## API:
 
 ### 1. Получение списка опросов
-request: GET jsons/surveys
+request: GET /surveys
 
 response body: Список survey_response.json
 
 ### 2. Получение опроса по идентификатору
-request: GET jsons/surveys/{id}
+request: GET /surveys/{id}
 
 response body: survey_response.json
 
